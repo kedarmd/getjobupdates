@@ -1,6 +1,6 @@
 # getjobupdates
 
-A new project for Job Seekers.
+A new project for those who are looking a new Job.
 
 ## Getting Started
 
